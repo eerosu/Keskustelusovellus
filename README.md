@@ -12,3 +12,5 @@ Tämä on yksinkertainen keskustelusovellus, jossa voit:
 * Antaa käyttäjälle ylläpito-oikeudet
 * Ylläpitäjä voi myös poistaa keskusteluita ja viestejä
 * Ylläpitäjä voi luoda rajoitettuja alueita ja muokata keillä kaikilla on pääsy alueelle
+
+Liikaa taistelua käyttöjärjestelmien/python virtuaaliympäristön kanssa, niin en saanut mitään toimivampaa aikaiseksi.
